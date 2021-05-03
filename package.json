@@ -1,0 +1,16 @@
+{
+  "name": "typedoc-material-dark",
+  "version": "1.0.0",
+  "description": "Modified typedoc theme that uses Material Dark colors!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyrouge/typedoc-material-dark.git"
+  },
+  "keywords": ["typedoc", "typedoc-theme", "dark", "material"],
+  "author": "Zyrouge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyrouge/typedoc-material-dark/issues"
+  },
+  "homepage": "https://github.com/zyrouge/typedoc-material-dark#readme"
+}
